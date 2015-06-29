@@ -16,16 +16,16 @@ int [] bookcount = new int[9];
 
 void setup(){
   size(600, 600);
-  smz = loadImage("smz.png");
-  iwt = loadImage("iwt.png");
-  fkmt = loadImage("fkmt.png");
-  skmt = loadImage("skmt.png");
-  snmr = loadImage("snmr.png");
-  mtzk = loadImage("mtzk.png");
-  ued = loadImage("ued.png");
-  ysd = loadImage("ysd.png");
-  tkt = loadImage("tkt.png");
-  tktrr = loadImage("takata2.png");
+  smz = loadImage("img/smz.png");
+  iwt = loadImage("img/iwt.png");
+  fkmt = loadImage("img/fkmt.png");
+  skmt = loadImage("img/skmt.png");
+  snmr = loadImage("img/snmr.png");
+  mtzk = loadImage("img/mtzk.png");
+  ued = loadImage("img/ued.png");
+  ysd = loadImage("img/ysd.png");
+  tkt = loadImage("img/tkt.png");
+  tktrr = loadImage("img/takata2.png");
 }
 
 int framecount = 0;
