@@ -13,8 +13,8 @@ class Circle{
   }
   
   void spread(){
-    vx += 16;
-    vy += 16;
+    vx += 24;
+    vy += 24;
   }
   
   void drawing(){
